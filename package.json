@@ -21,6 +21,7 @@
     "mermaid": "8.x"
   },
   "files": [
+    "index.js",
     "index.html",
     "fontawesome/*"
   ]
